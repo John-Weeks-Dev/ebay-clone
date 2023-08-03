@@ -4,7 +4,7 @@
 
 If you'd like a step-by-step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/234320789-13022db7-cea3-4ee2-b9a2-ecc47d0e4347.png)](https://www.youtube.com/watch?v=NtsbjB8QD3Y)
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/83ddc1ad-2dd3-408c-8062-b495f8091ff3)](https://www.youtube.com/watch?v=NtsbjB8QD3Y)
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
@@ -43,9 +43,15 @@ You should be good to go! If you need any more help, take a look at the tutorial
 
 # Application Images
 
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481659-ede8c034-b085-4a45-8d80-6271c6050474.png">
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481744-e3b237b3-0621-46ab-9494-60ac65b84d91.png">
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481876-dcd29b14-70c4-41d4-b29a-6c27937f68b2.png">
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481803-c3fc935b-1feb-496b-ae8d-ec63184536aa.png">
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481940-e29a65fa-38c3-4fea-aa31-79d8932773f2.png">
-<img width="1439" src="https://user-images.githubusercontent.com/108229029/234481996-9b16ec84-89e9-4d1e-ae14-7935db1e4c29.png">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/5878b07a-2e51-4f1c-9ae8-606c7c3e3b20">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/5efcba0f-53d0-40f5-a79a-13cccd6c6eb8">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/22f3e92b-9c52-41f9-88bd-3e807a47f471">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/c6a8346d-9f82-4f93-9ffe-5aed13a3a72f">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/3a069e2d-cb0b-4f23-a627-ca903ef953f0">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/bef7e852-0a8c-44b2-9cc4-87b5b8df5bd9">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/edd92c37-0b1d-4cfc-b6e3-fabc4aaa8735">
+<img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/a7180d72-babd-4983-8ce6-6d745dedb2c3">
+<img width="800" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/7dc5e46d-0f59-4f4f-ae2c-94d91e0000ab">
+
+
+
