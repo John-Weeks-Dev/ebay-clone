@@ -51,7 +51,7 @@ You should be good to go! If you need any more help, take a look at the tutorial
 <img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/bef7e852-0a8c-44b2-9cc4-87b5b8df5bd9">
 <img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/edd92c37-0b1d-4cfc-b6e3-fabc4aaa8735">
 <img width="1100" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/a7180d72-babd-4983-8ce6-6d745dedb2c3">
-<img width="800" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/7dc5e46d-0f59-4f4f-ae2c-94d91e0000ab">
+<img width="850" src="https://github.com/John-Weeks-Dev/ebay-clone/assets/108229029/7dc5e46d-0f59-4f4f-ae2c-94d91e0000ab">
 
 
 
